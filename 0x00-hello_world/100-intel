@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S -masm=intel $CFIlE -o
+gcc -S -masm=intel $CFIlE 
